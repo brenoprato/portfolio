@@ -1,0 +1,26 @@
+:root,
+[data-theme='midnight-cobalt'] {
+  --bg: #0d0f17;
+  --surface: #151826;
+  --surface-subtle: color-mix(in srgb, var(--surface) 65%, var(--bg));
+  --border: #282e46;
+  --border-strong: #3b4466;
+
+  --text-primary: #eef1fc;
+  --text-secondary: #c4cbe2;
+  --text-muted: #9aa4c4;
+  --text-subtle: #828cae;
+
+  --accent-primary: #5b8cff;
+  --accent-primary-strong: #3d6df2;
+  --accent-highlight: #a78bfa;
+  --accent-highlight-strong: #8b5cf6;
+
+  --window-dot-close: #ff5f56;
+  --window-dot-minimize: #ffbd2e;
+  --window-dot-maximize: #27c93f;
+
+  --font-mono: 'JetBrains Mono Variable', 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo,
+    Monaco, Consolas, monospace;
+  color-scheme: dark;
+}
