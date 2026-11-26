@@ -17,9 +17,9 @@ export const PROFILE: ProfileData = {
     shortBadge: "UNIFESP · CS '28",
   },
   tagline: {
-    en: 'Building software systems, ML pipelines, and resting at the occasional bonfire.',
+    en: 'Building reliable software systems, ML pipelines, and AI agent workflows.',
     'pt-BR':
-      'Construindo sistemas, pipelines de ML e descansando numa fogueira de vez em quando.',
+      'Construindo sistemas confiáveis, pipelines de ML e fluxos com agentes de IA.',
   },
   bio: {
     en: [
